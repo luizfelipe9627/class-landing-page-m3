@@ -1,13 +1,13 @@
 # Practice Landing Page - M3 Academy
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-<img src="https://github.com/luizfelipe9627/practice-landing-page-m3/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do site">
+<img src="https://github.com/luizfelipe9627/class-landing-page-m3/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do site">
 
 ## 📄 Descrição
 
 Antes de fazer o desafio final do módulo de HTML5 e CSS3 foi passado em aula como fazer uma Landing Page na prática deixando a página Responsiva, bem estruturada e estilizada.
 
-### <a href="https://luizfelipe9627-practice-page-m3.netlify.app">Acesse o site</a>
+### <a href="https://luizfelipe9627-class-landing-page-m3.netlify.app">Acesse o site</a>
 
 ## 💻 Tecnologias utilizadas
 
